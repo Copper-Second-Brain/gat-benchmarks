@@ -156,3 +156,6 @@ app/.sizingDB
 app/.tov/
 
 *.tar
+
+
+data/
