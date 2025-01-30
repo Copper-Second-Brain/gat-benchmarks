@@ -158,11 +158,6 @@ def compare_models():
     plt.show()
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser()
-    parser.add_argument('--compare', action='store_true')
-    args = parser.parse_args()
     
-    if args.compare:
-        compare_models()
-    else:
-        print("Use --compare to run comparison")
+    compare_models()
+   
