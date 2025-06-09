@@ -243,6 +243,7 @@ For questions and support:
 - Om Umrania: omumrania2020@gmail.com
 - Aayush Chaudhary: aaayush.dev@gmail.com
 - Atharva Vyas: vyasatharv889@gmail.com
+- Yashada Nalawade: yashadanalawade8@gmail.com
 
 ## Future Work
 
